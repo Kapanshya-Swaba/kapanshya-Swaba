@@ -6,11 +6,11 @@ I am a Security operations center analyst
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Security Analyst @[ No i wont tell you ]
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Lets get into development
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Cyber Security
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
